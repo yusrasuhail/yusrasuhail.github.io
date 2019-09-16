@@ -2,9 +2,9 @@ body {background-image: url("forbackground.jpg");}
 #banner {width: 800px}
 #nav-table { width: 800px; text-align: center;}
 #nv-td { width: 200px; text-align:center;}
-#head {width : 100px; float: right;}
-#debate {width : 100px; float: left}
-#mypicture {width : 100px; float: right}
-#travelling {width :100px; float: right}
-#travel {width: 100px; float: left}
+#head {width : 100px; float: right; margin-right: 15px;}
+#debate {width : 100px; float: left; margin-right: 6px;}
+#mypicture {width : 100px; float: right; margin-left: 6px;}
+#travelling {width :100px; float: right; margin-right: 6px;}
+#travel {width: 100px; float: right; margin-right: 6px;}
 #wrap {margin: 0 auto; width: 800px}
