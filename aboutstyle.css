@@ -1,5 +1,5 @@
 body {background-image: url("forbackground.jpg");}
-#banner {100%}
+#banner {width: 100%}
 #nav-table { width: 100%;}
 #nv-td { width: 25%; text-allign:center;}
 #head {width : 100px; float: right;}
