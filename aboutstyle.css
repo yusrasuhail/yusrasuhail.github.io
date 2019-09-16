@@ -1,6 +1,6 @@
 body {background-image: url("forbackground.jpg");}
 #banner {width: 800px}
-#nav-table { width: 100%; text-allign: center;}
+#nav-table { width: 800px; text-allign: center;}
 #nv-td { width: 200px; text-allign:center;}
 #head {width : 100px; float: right;}
 #debate {width : 100px; float: left}
