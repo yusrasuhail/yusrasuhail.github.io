@@ -1,4 +1,5 @@
 body {background-color: #06B797;}
-#nav-table { width: 800px; text-allign:center;}
-#nav-td { width:200px; text-allign: center;}
-#text {width: 800px;}
+#nav-table { width: 100%; text-allign:center;}
+#nav-td { width:100%; text-allign: center;}
+#text {width: 100%;}
+#wrap {margin: 0 auto; width: 70%}
