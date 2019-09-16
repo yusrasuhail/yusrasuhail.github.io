@@ -1,6 +1,6 @@
 body {background-color: #06B797;}
-#banner {width : 100%}
-#nav-table { width: 100%; text-allign:center;}
-#nav-td { width:25%; text-allign: center;}
+#banner {width : 800px }
+#nav-table { width: 800px; text-allign:center;}
+#nav-td { width:100px; text-allign: center;}
 #text {width: 100%;}
 #wrap {margin: 0 auto; width: 70%}
