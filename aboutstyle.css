@@ -1,3 +1,8 @@
 body {background-image: url("forbackground.jpg");}
 #nav-table { width: 800px;}
 #nv-td { width: 200px; text-allign:center;}
+#head {width : 100px; float: right;}
+#debate {width : 100px; float: left}
+#mypicture {width : 100px; float: right}
+#travelling {width :100px; float: right}
+#travel {width: 100px; float: left}
