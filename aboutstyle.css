@@ -6,3 +6,4 @@ body {background-image: url("forbackground.jpg");}
 #mypicture {width : 100px; float: right}
 #travelling {width :100px; float: right}
 #travel {width: 100px; float: left}
+#wrap {margin: 0 auto;}
