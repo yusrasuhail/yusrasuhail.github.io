@@ -2,5 +2,10 @@ body {background-image: url("forbackground.jpg");}
 #banner {width : 800px }
 #nav-table { width: 800px; text-align:center;}
 #nav-td { width:160px; text-align: center;}
+#page{
+  width : 800px;
+  margin:10px;
+  padding:50px;
+}
 #text {width: 100%;}
 #wrap {margin: 0 auto; width: 800px}
