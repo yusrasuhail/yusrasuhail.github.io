@@ -1,7 +1,12 @@
 body {background-image: url("forbackground.jpg");}
 #banner {width: 800px}
 #nav-table { width: 800px; text-align: center;}
-#nv-td { width: 100px; text-align:center;}
+#nv-td { width: 200px; text-align:center;}
+#page{
+  width : 800px;
+  margin:10px;
+  padding:50px;
+}
 #head {width : 100px; float: right; margin-right: 30px;}
 #debate {width : 100px; float: left; margin-right: 6px;}
 #mypicture {width : 100px; float: right; margin-left: 6px;}
